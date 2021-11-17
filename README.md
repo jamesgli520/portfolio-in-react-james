@@ -1,8 +1,49 @@
-# Getting Started with Create React App
+# React-Portfolio-James
+
+**Version 1.0**
+
+# Table of Contents:
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Deploy](#deploy)
+* [Info](#info)
+## Description
+
+This is a personal portfolio website built using React and Bootstrap.
+
+
+**Internal Navigation on the top of website**
+
+<p>
+    <img src="src\Assets\screenshothomepage.PNG"  width="1000px" height="500px"/>
+</p>
+
+## Installation
+You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
+
+
+## Usage
+run the app locally by running 
+```
+npm start
+```
+## Deploy
+**Link to Deployed Application**
+
+Live: https://jamesgli520.github.io/React-Portfolio-James/
+
+Github repository: https://github.com/jamesgli520/React-Portfolio-James
+
+## License & copyright
+
+## Made By James
+
+&copy; 2021.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Info
 
 In the project directory, you can run:
 
