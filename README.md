@@ -31,9 +31,9 @@ npm start
 ## Deploy
 **Link to Deployed Application**
 
-Live: https://jamesgli520.github.io/React-Portfolio-James/
+Live: https://jamesgli520.github.io/portfolio-in-react-james/
 
-Github repository: https://github.com/jamesgli520/React-Portfolio-James
+Github repository: https://github.com/jamesgli520/portfolio-in-react-james/tree/master
 
 ## License & copyright
 
