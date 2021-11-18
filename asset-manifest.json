@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio-in-react-james/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/portfolio-in-react-james/static/js/main.b5d2bf97.chunk.js",
-    "main.js.map": "/portfolio-in-react-james/static/js/main.b5d2bf97.chunk.js.map",
-    "runtime-main.js": "/portfolio-in-react-james/static/js/runtime-main.8f13d4d4.js",
-    "runtime-main.js.map": "/portfolio-in-react-james/static/js/runtime-main.8f13d4d4.js.map",
-    "static/js/2.fd488834.chunk.js": "/portfolio-in-react-james/static/js/2.fd488834.chunk.js",
-    "static/js/2.fd488834.chunk.js.map": "/portfolio-in-react-james/static/js/2.fd488834.chunk.js.map",
-    "static/js/3.cb1ad111.chunk.js": "/portfolio-in-react-james/static/js/3.cb1ad111.chunk.js",
-    "static/js/3.cb1ad111.chunk.js.map": "/portfolio-in-react-james/static/js/3.cb1ad111.chunk.js.map",
+    "main.css": "/portfolio-in-react-james/static/css/main.12539470.chunk.css",
+    "main.js": "/portfolio-in-react-james/static/js/main.0adc6cf6.chunk.js",
+    "main.js.map": "/portfolio-in-react-james/static/js/main.0adc6cf6.chunk.js.map",
+    "runtime-main.js": "/portfolio-in-react-james/static/js/runtime-main.05f9df20.js",
+    "runtime-main.js.map": "/portfolio-in-react-james/static/js/runtime-main.05f9df20.js.map",
+    "static/css/2.bd932d36.chunk.css": "/portfolio-in-react-james/static/css/2.bd932d36.chunk.css",
+    "static/js/2.8ce65746.chunk.js": "/portfolio-in-react-james/static/js/2.8ce65746.chunk.js",
+    "static/js/2.8ce65746.chunk.js.map": "/portfolio-in-react-james/static/js/2.8ce65746.chunk.js.map",
+    "static/js/3.39af344d.chunk.js": "/portfolio-in-react-james/static/js/3.39af344d.chunk.js",
+    "static/js/3.39af344d.chunk.js.map": "/portfolio-in-react-james/static/js/3.39af344d.chunk.js.map",
     "index.html": "/portfolio-in-react-james/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/portfolio-in-react-james/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fd488834.chunk.js.LICENSE.txt": "/portfolio-in-react-james/static/js/2.fd488834.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio-in-react-james/static/media/logo.6ce24c58.svg"
+    "static/css/2.bd932d36.chunk.css.map": "/portfolio-in-react-james/static/css/2.bd932d36.chunk.css.map",
+    "static/css/main.12539470.chunk.css.map": "/portfolio-in-react-james/static/css/main.12539470.chunk.css.map",
+    "static/js/2.8ce65746.chunk.js.LICENSE.txt": "/portfolio-in-react-james/static/js/2.8ce65746.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/portfolio-in-react-james/static/media/home-bg.21bc8388.jpg",
+    "static/media/note-taker.5f6b3a34.PNG": "/portfolio-in-react-james/static/media/note-taker.5f6b3a34.PNG",
+    "static/media/password-generator.8cab43f4.PNG": "/portfolio-in-react-james/static/media/password-generator.8cab43f4.PNG",
+    "static/media/project.160bfbae.PNG": "/portfolio-in-react-james/static/media/project.160bfbae.PNG",
+    "static/media/weather-dashboard.1ed96c03.jpg": "/portfolio-in-react-james/static/media/weather-dashboard.1ed96c03.jpg",
+    "static/media/work-day-scheduler.5f461e01.PNG": "/portfolio-in-react-james/static/media/work-day-scheduler.5f461e01.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f13d4d4.js",
-    "static/js/2.fd488834.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b5d2bf97.chunk.js"
+    "static/js/runtime-main.05f9df20.js",
+    "static/css/2.bd932d36.chunk.css",
+    "static/js/2.8ce65746.chunk.js",
+    "static/css/main.12539470.chunk.css",
+    "static/js/main.0adc6cf6.chunk.js"
   ]
 }
