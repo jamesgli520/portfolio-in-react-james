@@ -1,6 +1,6 @@
 import React from "react";
 import {Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
+import ProjectCards from "./ProjectCards";
 import Particle from "../Particle";
 import marvel from "../../Assets/project.PNG";
 import passwordGenerator from "../../Assets/password-generator.PNG";
@@ -18,7 +18,7 @@ function Projects() {
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCards
               imgPath={marvel}
               isBlog={false}
               title="Marvel Library"
@@ -28,7 +28,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCards
               imgPath={passwordGenerator}
               isBlog={false}
               title="Password Generator"
@@ -38,7 +38,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCards
               imgPath={WorkDay}
               isBlog={false}
               title="Work Day Scheduler"
@@ -48,7 +48,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCards
               imgPath={noteTaker}
               isBlog={false}
               title="Note Talker with Express"
@@ -58,7 +58,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCards
               imgPath={weatherDashboard}
               isBlog={false}
               title="Weather Dashboard"

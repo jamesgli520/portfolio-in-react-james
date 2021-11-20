@@ -1,5 +1,5 @@
 import React from "react";
-import {Card} from 'reactstrap';
+import Card from "react-bootstrap/Card";
 import {Button} from 'react-bootstrap';
 import { BiLinkExternal } from "react-icons/bi";
 
